@@ -30,7 +30,7 @@ Dieses Tool vergleicht zwei Excel-Dateien miteinander und markiert die Unterschi
 2. Starte das Programm über deine IDE oder die Konsole:
    
    Führe die Klasse "ExcelComparator" aus.
-   ```
+
 3. Nach Abschluss des Vorgangs findest du die Datei `diff.xlsx` im Hauptordner.
 
 ## 📂 Projektstruktur
